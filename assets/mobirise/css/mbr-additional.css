@@ -1060,12 +1060,12 @@ a {
   }
 }
 .cid-sImBMCjNon {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/background8.jpg");
 }
 .cid-sImBMCjNon .card-wrapper {
-  background: #ffffff;
+  background: #fafafa;
   border-radius: 4px;
 }
 @media (max-width: 767px) {
@@ -1082,6 +1082,10 @@ a {
   .cid-sImBMCjNon .card-wrapper {
     padding: 4rem;
   }
+}
+.cid-sImBMCjNon .card-title {
+  text-align: right;
+  color: #353535;
 }
 .cid-sJjmGuL5dg {
   padding-top: 1rem;
@@ -1139,39 +1143,6 @@ a {
 }
 .cid-sJjmGuL5dg .item-subtitle {
   text-align: left;
-}
-.cid-sJkLDGBsLA {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-sJkLDGBsLA .card-wrapper {
-  background: #dfeff7;
-  border-radius: 4px;
-}
-@media (max-width: 767px) {
-  .cid-sJkLDGBsLA .card-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-sJkLDGBsLA .card-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sJkLDGBsLA .card-wrapper {
-    padding: 4rem;
-  }
-}
-.cid-sJkLDGBsLA .mbr-text,
-.cid-sJkLDGBsLA .mbr-section-btn {
-  color: #232323;
-}
-.cid-sJkLDGBsLA .card-title,
-.cid-sJkLDGBsLA .card-box {
-  text-align: center;
-  color: #000000;
 }
 .cid-sIs4BL6cXV {
   padding-top: 2rem;
@@ -2714,7 +2685,7 @@ a {
   }
 }
 .cid-sJkV5d3btx .card-title {
-  color: #22a5e5;
+  color: #2299aa;
 }
 .cid-sJkV5enJ9x {
   padding-top: 2rem;
@@ -2778,28 +2749,28 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sJkYjLJcxc .carousel {
-    min-height: 400px;
+    min-height: 500px;
   }
   .cid-sJkYjLJcxc .carousel img {
-    max-height: 400px;
+    max-height: 500px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-sJkYjLJcxc .carousel {
-    min-height: 260px;
+    min-height: 325px;
   }
   .cid-sJkYjLJcxc .carousel img {
-    max-height: 260px;
+    max-height: 325px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-sJkYjLJcxc .carousel {
-    min-height: 220px;
+    min-height: 275px;
   }
   .cid-sJkYjLJcxc .carousel img {
-    max-height: 220px;
+    max-height: 275px;
     object-fit: contain;
   }
   .cid-sJkYjLJcxc .container .carousel-control {
@@ -2929,7 +2900,7 @@ a {
   background-color: #ffffff;
 }
 .cid-sJl1hBvq4Y .line {
-  background-color: #22a5e5;
+  background-color: #2299aa;
   align: center;
   height: 2px;
   margin: 0 auto;
