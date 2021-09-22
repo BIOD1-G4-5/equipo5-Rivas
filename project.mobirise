@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Biod1",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -57,7 +57,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 122,
+    "uniqCompNum": 123,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true
@@ -3609,6 +3609,30 @@
           "_anchor": "content15-3b",
           "_isUserblock": true,
           "_cid": "sJLG9V4xYE",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Mala gestión en el avance de proyectos\n</b><div><b><br></b></div></h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Durante el año 2020, al menos 82 proyectos no tuvieron avance alguno en su ejecución. Estos proyectos consistían en la adquisición de monitores de signos vitales y otros equipos médicos para distintos hospitales en todo el país, ya sea en la capital o provincias. \n<br>Un ejemplo de esto es el proyecto “ADQUISICION DE MONITOR DE FUNCIONES VITALES, MONITOR DE FUNCIONES VITALES, MONITOR DE FUNCIONES VITALES Y VENTILADOR MECÁNICO; ADEMÁS DE OTROS ACTIVOS EN EL(LA) EESS HOSPITAL DE LA AMISTAD PERÚ - COREA SANTA ROSA II-2 - VEINTISÉIS DE OCTUBRE DISTRITO DE VEINTISÉIS DE OCTUBRE, PROVINCIA PIURA, DEPARTAMENTO PIURA”, con un coste total de S/.790 900 y cuyo avance de ejecución era 0.0 %. \n<br>Otro ejemplo, pero de la capital, es el siguiente: “ADQUISICION DE MONITOR DE FUNCIONES VITALES, MONITOR DE FUNCIONES VITALES, MONITOR DE FUNCIONES VITALES Y VENTILADOR MECÁNICO; ADEMÁS DE OTROS ACTIVOS EN EL(LA) EESS INSTITUTO NACIONAL MATERNO PERINATAL - LIMA EN LA LOCALIDAD LIMA, DISTRITO DE LIMA, PROVINCIA LIMA, DEPARTAMENTO LIMA”, con un coste total de S/.988 900 y su avance de ejecución era 0.0 %.&nbsp;<br><br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content5-3e",
+          "_isUserblock": true,
+          "_cid": "sJLISAADgx",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
