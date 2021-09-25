@@ -3796,7 +3796,7 @@
               }
             },
             ".mbr-text": {
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-title": {
               "text-align": "center"
@@ -3938,7 +3938,7 @@
               }
             },
             ".mbr-text": {
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-title": {
               "text-align": "center"
@@ -3962,7 +3962,7 @@
             "padding-bottom": "(@paddingBottom * 1rem)",
             "background-color": "@bgColor",
             ".mbr-text": {
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "text-align": "center"
